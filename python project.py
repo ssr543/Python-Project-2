@@ -1,3 +1,4 @@
+# Creating Multiplication Table using Object Oriented programming
 class table:
     def tab(self):
         n=int(input("Enter a no.: "))
